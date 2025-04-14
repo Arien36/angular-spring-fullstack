@@ -7,4 +7,9 @@ for(let tempSport of sportsOne){
         console.log(tempSport);
     }
 }
+export class Customer {
+
+    firstName: string;
+    lastName: string;
+}
     
